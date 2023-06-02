@@ -23,10 +23,15 @@ Hi there! 👋 I'm a passionate Web Develper (Front-End focused) from Lima, Peru
 ## 🤝 Soft Skills
 
 - Assertive & Effective Communication
-- Problem solving oriented
 - Teamwork
 - Adaptability
 - Self-learning
+
+## ⚡️ Fun Facts
+
+- If I'm not coding I'm probably playing the guitar or watching football
+- I love exercising almost every day of the week
+- My favorite place in the world is the beach
 
 ## 🔧 Technologies
 
@@ -35,12 +40,6 @@ Hi there! 👋 I'm a passionate Web Develper (Front-End focused) from Lima, Peru
     <img src="https://skillicons.dev/icons?i=react,javascript,html,css,next,nodejs,express,ruby,rails,postgresql,git,github,sass,figma,emotion,jest,tailwind,vite&perline=9" />
   </a>
 </p>
-
-## 😎 Fun Facts
-
-- If I'm not coding I'm probably playing the guitar or watching football
-- I love exercising almost every day of the week
-- My favorite place in the world is the beach
 
 ## 📫 Get in Touch
 
