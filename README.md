@@ -5,8 +5,8 @@ Hi there! 👋 I'm a passionate Web Develper (Front-End focused) from Lima, Peru
 
 ## 🎓 Education
 
-- Codeable / Full-Stack Web Developer Bootcamp (2022-2023)
-- Universidad de Lima / Bachelor in Comunications (2017-2022)
+- Codeable / Full-Stack Web Development Bootcamp (2022-2023)
+- Universidad de Lima / Bachelor in Communications (2017-2022)
 
 ## 💻 Experience
 
