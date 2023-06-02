@@ -15,7 +15,7 @@ Hi there! 👋 I'm Full-Stack Web Develper (Front-End focused) from Lima, Peru. 
 
 ## 🎨 Skills
 
-- Full-Stack Web Development (Front-End focused)
+- Full-Stack Web Development
 - Pixel-perfect results
 - Knowledge and passion for design
 - UI/UX principles of web and mobile interfaces
