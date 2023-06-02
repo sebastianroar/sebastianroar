@@ -1,6 +1,6 @@
 #  I'm Sebastian Roa
 
-Hi there! 👋 I'm a passionate Web Develper (Front-End focused) from Lima, Peru. Fast-learning and curious professional with excellent communications skills and a keen eye for details, interested in growing professionally alongside dynamic teams, and passionate about creating solutions that have an impact on people's lives.
+Hi there! 👋 I'm a Web Develper (Front-End focused) from Lima, Peru. Fast-learning and curious professional with excellent communications skills and a keen eye for details, interested in growing professionally alongside dynamic teams, and passionate about creating solutions that have an impact on people's lives.
 
 
 ## 🎓 Education
@@ -17,7 +17,8 @@ Hi there! 👋 I'm a passionate Web Develper (Front-End focused) from Lima, Peru
 
 - Front-End Web Development
 - Pixel-perfect results
-- Meticulous attention to detail
+- Knowledge and passion for design
+- UI/UX principles of web and mobile interfaces
 - Creative mindset
 
 ## 🤝 Soft Skills
