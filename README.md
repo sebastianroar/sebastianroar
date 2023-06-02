@@ -11,15 +11,22 @@ Hi there! 👋 I'm a passionate Web Develper (Front-End focused) from Lima, Peru
 ## 💻 Experience
 
 - 6 months of experience in the Sofwtaware Development field (Codeable)
-- During my bootcamp experience I worked with a variety of Full-Stack technologies, but mainly with React, JavaScript, HTML and CSS.
+- During my bootcamp experience I worked with a variety of technologies, but mainly with React, JavaScript, HTML and CSS.
 
 ## 🎨 Skills
 
 - Front-End Web Development
-- UI/UX Design
 - Pixel-perfect results
 - Meticulous attention to detail
 - Creative mindset
+
+## 🤝 Soft Skills
+
+- Assertive & Effective Communication
+- Problem solving oriented
+- Teamwork
+- Adaptability
+- Self-learning
 
 ## 🔧 Technologies
 
@@ -28,6 +35,12 @@ Hi there! 👋 I'm a passionate Web Develper (Front-End focused) from Lima, Peru
     <img src="https://skillicons.dev/icons?i=react,javascript,html,css,next,nodejs,express,ruby,rails,postgresql,git,github,sass,figma,emotion,jest,tailwind,vite&perline=9" />
   </a>
 </p>
+
+## 😎 Fun Facts
+
+- If I'm not coding I'm probably playing the guitar or watching football
+- I love exercising almost every day of the week
+- My favorite place in the world is the beach
 
 ## 📫 Get in Touch
 
