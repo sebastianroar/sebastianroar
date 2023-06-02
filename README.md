@@ -1,6 +1,6 @@
 #  I'm Sebastian Roa
 
-Hi there! 👋 I'm a Web Develper (Front-End focused) from Lima, Peru. Fast-learning and curious professional with excellent communications skills and a keen eye for details, interested in growing professionally alongside dynamic teams, and passionate about creating solutions that have an impact on people's lives.
+Hi there! 👋 I'm Full-Stack Web Develper (Front-End focused) from Lima, Peru. Fast-learning and curious professional with excellent communications skills and a keen eye for details, interested in growing professionally alongside dynamic teams, and passionate about creating solutions that have an impact on people's lives.
 
 
 ## 🎓 Education
@@ -11,11 +11,11 @@ Hi there! 👋 I'm a Web Develper (Front-End focused) from Lima, Peru. Fast-lear
 ## 💻 Experience
 
 - 6 months of experience in the Sofwtaware Development field (Codeable)
-- During my bootcamp experience I worked with a variety of technologies, but mainly with React, JavaScript, HTML and CSS.
+- During my bootcamp experience I worked with a variety of technologies, but mainly with React, JavaScript, Node, HTML and CSS.
 
 ## 🎨 Skills
 
-- Front-End Web Development
+- Full-Stack Web Development (Front-End focused)
 - Pixel-perfect results
 - Knowledge and passion for design
 - UI/UX principles of web and mobile interfaces
