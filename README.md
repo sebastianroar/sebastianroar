@@ -13,7 +13,7 @@ Hi there! 👋 I'm Full-Stack Web Develper (Front-End focused) from Lima, Peru. 
 - 6 months of experience in the Sofwtaware Development field (Codeable)
 - During my bootcamp experience I worked with a variety of technologies, but mainly with React, JavaScript, Node, HTML and CSS.
 
-## 🎨 Skills
+## 🧰 Skills
 
 - Full-Stack Web Development
 - Pixel-perfect results
@@ -55,18 +55,3 @@ Hi there! 👋 I'm Full-Stack Web Develper (Front-End focused) from Lima, Peru. 
 ---
 
 ⭐️ From [Sebastian Roa](https://github.com/sebastianroar)
-
-<!--
-**sebastianroar/sebastianroar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
